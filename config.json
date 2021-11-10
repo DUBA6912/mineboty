@@ -1,9 +1,9 @@
 {
- "ip": "Your_minecraft_server_ip_here",
- "port": "Your_server_port_here",
- "name": "Your_bot_name_here",
+ "ip": "DUBA6912.aternos.me",
+ "port": "21770",
+ "name": "마크 서버 봇",
  "auto-night-skip": "false",
- "token": "Your_discord_bot_token_here",
- "channelid": "Your_discord_server_channel_id_here",
- "loginmsg": "Your_Login_message_here"
+ "token": "OTA3ODE2NjgzMDEwNDEyNjI0.YYssKw.8yrhsKZxD8AP3wWNg-zMiudGPjs",
+ "channelid": "907816965081554987",
+ "loginmsg": "good"
 }
